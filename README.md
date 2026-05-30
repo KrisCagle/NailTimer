@@ -1,4 +1,4 @@
-# nail_recipe_timer
+# nail_timer
 
 A new Flutter project.
 
